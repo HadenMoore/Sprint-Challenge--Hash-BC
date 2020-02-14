@@ -9,6 +9,7 @@ def get_indices_of_item_weights(weights, length, limit):
     ht = HashTable(16)
 
     for i in range(length):
+         #limit-weight[i] value stored in ht as key
         banana =  hash_table_retrieve(ht, limit - weights[i])
         if banana is not None: 
             answer = (i, banana)
@@ -17,7 +18,6 @@ def get_indices_of_item_weights(weights, length, limit):
             hash_table_insert(ht, weights[i], i)
 
     return None
-    
 
 
 def print_answer(answer):
@@ -25,3 +25,7 @@ def print_answer(answer):
         print(str(answer[0] + " " + answer[1]))
     else:
         print("None")
+
+
+weights_3 = [ 4, 6, 10, 15, 16 ]
+print(get_indices_of_item_weights(weights_3, 3, 45))
