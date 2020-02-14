@@ -1,0 +1,365 @@
+Last login: Fri Feb 14 13:23:54 on ttys001
+
+(Sprint-Challenge--Hash-BC) (base) haden@Hadens-MacBook-Pro blockchain % python3 miner.py
+ID is HadenMoore
+
+Searching for next proof
+Proof found: 30106854 in 2.2711217860000006
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 750013515 in 57.86194578600001
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 277959113 in 20.021820663
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 797816156 in 57.64264642799999
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 97871903 in 7.029562298000002
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 3604018330 in 264.644833177
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 346006865 in 26.161168685999996
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 540478118 in 38.91847665900002
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 308885343 in 23.225488702999996
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 142682579 in 10.554288832999987
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 739227722 in 54.13055277000001
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 373875390 in 27.364555741000004
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 235170842 in 17.20822315800001
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 396970053 in 30.113200614999982
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 79039911 in 5.5603829059999725
+Total coins mined: 1
+Searching for next proof
+Proof found: 223484252 in 16.16432735500007
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 1294487328 in 99.57126147299994
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 1153342251 in 85.84217016799994
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 292396911 in 24.974855591999926
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 753153108 in 52.98379924400001
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 99413728 in 8.644997321999881
+Total coins mined: 2
+Searching for next proof
+Proof found: 473390257 in 36.617242558999806
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 1436838395 in 98.36349568699984
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 1925413737 in 142.070612064
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 688258684 in 57.01264251999987
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 1012129783 in 79.15146334399992
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 1279948393 in 100.14165286499997
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 168386863 in 11.671257058000037
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 328975273 in 24.23488876800002
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 376646717 in 25.882396694999898
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 1083099161 in 74.8591794680001
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 782324852 in 53.795930072000374
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 265857943 in 18.08290646100022
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 39017975 in 2.6755853970003045
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 710021761 in 49.22017367699982
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 122560927 in 8.268070340000122
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 287902400 in 19.7524353660001
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 34955308 in 2.511657459000162
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 19658831 in 1.3455622809997294
+Total coins mined: 3
+Searching for next proof
+Proof found: 187583258 in 12.84425487999988
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 87209797 in 6.059695133999867
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 307451438 in 21.150887135000175
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 1369498722 in 94.79514153900027
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 620631066 in 46.4818391660001
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 287049742 in 22.51512574299977
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 449214457 in 30.963780907
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 1220151476 in 84.91976937299978
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 665421693 in 46.597433189000185
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 357042168 in 25.38446960300007
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 5518611 in 0.3637840380001762
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 938324571 in 66.03843100699987
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 801269913 in 57.305240670999865
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 201164786 in 14.083770382999774
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 320270540 in 22.007036857999992
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 726658309 in 50.0431434369998
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 31384473 in 2.1420907380002063
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 555628226 in 38.45408855799997
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 3024778245 in 208.62020937599982
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 1419911355 in 111.67388876799987
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 179328460 in 12.608986369999457
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 15112802 in 1.0270652930003052
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 251018341 in 17.60979735500041
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 189635744 in 13.088063352999598
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 2953131379 in 208.97806369699993
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 1099382017 in 76.32398714800001
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 153679884 in 10.508764463000261
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 541217618 in 37.2337975169994
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 623003413 in 43.06986890999997
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 2796448730 in 194.5910415140006
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 588240885 in 40.75946474800003
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 715805831 in 50.05014621999999
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 580618483 in 39.80655970499993
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 2290084861 in 163.39866264899956
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 254630159 in 17.369607456999802
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 2863745025 in 193.07817635300034
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 1344806163 in 90.5443862230004
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 1567344638 in 107.40366049600016
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 2691034061 in 184.25702249000005
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 144370808 in 9.72238285200001
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 1314990494 in 93.41898260399921
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 2516282346 in 203.73504180799955
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 1225653538 in 82.18969034100064
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 2061692366 in 143.06977292299962
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 598984778 in 42.59589348699956
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 813753122 in 54.92358089000027
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 1130693690 in 76.94951889599997
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 878689972 in 64.4849229170004
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 5106488737 in 349.0924808669997
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 233715582 in 15.965039403000446
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 3182799443 in 215.88199685000018
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 958474954 in 65.2833349600005
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 127165964 in 8.646714588999203
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 938143281 in 65.03243437899982
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 693297915 in 47.75980556899958
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 71341841 in 4.80174733000058
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 266125655 in 18.112979126999562
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 278823684 in 18.792090745000678
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 12054057 in 0.7571799220004323
+Total coins mined: 4
+Searching for next proof
+Proof found: 1233501195 in 83.92195923100007
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 299713089 in 20.294065488000342
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 200949431 in 13.605658218000826
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 1869184630 in 128.8110790259998
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 187601396 in 15.740241388999493
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 538196881 in 36.21194295100031
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 667165550 in 45.32436308299839
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 263484178 in 17.818455720000202
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 433103424 in 31.2590734159985
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 2734222322 in 186.8764643960003
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 277868835 in 18.97244406400023
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 32161340 in 2.1582599749999645
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 92987579 in 6.336611033999361
+Total coins mined: 5
+Searching for next proof
+Proof found: 297852416 in 26.98192416600068
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 498970308 in 44.70107973599988
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 856912492 in 73.75337325699911
+Proof valid but already submitted.
+Searching for next proof
+Proof found: 56730711 in 4.74264344400035
+Proof valid but already submitted.
+Searching for next proof
+quit()
+clear
+^[^[
+
+
+quit                                                                                  - ^CTraceback (most recent call last):
+  File "miner.py", line 74, in <module>
+    new_proof = proof_of_work(data.get('proof'))
+  File "miner.py", line 26, in proof_of_work
+    proof += randint(1,100)
+  File "/Users/haden/.local/share/virtualenvs/Sprint-Challenge--Hash-BC-nC1pOQPJ/lib/python3.7/random.py", line 222, in randint
+    return self.randrange(a, b+1)
+KeyboardInterrupt
+(Sprint-Challenge--Hash-BC) (base) haden@Hadens-MacBook-Pro blockchain %    
