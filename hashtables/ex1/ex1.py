@@ -29,3 +29,5 @@ def print_answer(answer):
 
 weights_3 = [12, 6, 7, 14, 19, 3, 0, 25, 40]
 print(get_indices_of_item_weights(weights_3, 9, 7))
+
+#All Tests Pass.
