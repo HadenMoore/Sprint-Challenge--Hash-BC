@@ -5,15 +5,19 @@ from hashtables import (HashTable,
                         hash_table_retrieve,
                         hash_table_resize)
 
-
 def get_indices_of_item_weights(weights, length, limit):
     ht = HashTable(16)
 
-    """
-    YOUR CODE HERE
-    """
+    for i in range(length):
+        banana =  hash_table_retrieve(ht, limit - weights[i])
+        if banana is not None: 
+            answer = (i, banana)
+            return answer
+        else: 
+            hash_table_insert(ht, weights[i], i)
 
     return None
+    
 
 
 def print_answer(answer):
