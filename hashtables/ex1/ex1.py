@@ -28,4 +28,4 @@ def print_answer(answer):
 
 
 weights_3 = [ 4, 6, 10, 15, 16 ]
-print(get_indices_of_item_weights(weights_3, 3, 45))
+print(get_indices_of_item_weights(weights_3, 9, 7))
